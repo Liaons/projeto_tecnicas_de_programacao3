@@ -5,7 +5,9 @@ Projeto desenvolvido durante o Módulo 3- Técnicas de Programação I, turma 86
 Autores:
 
 Cynthia Pinto: https://github.com/cynthiatsp
+
 Rafael Baptista: https://github.com/rafaa14
+
 Henrique: https://github.com/Liaons
 
 Pasta com os arquivos utilizados:
