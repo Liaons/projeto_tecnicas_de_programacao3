@@ -1,6 +1,6 @@
 # projeto_tecnicas_de_programacao3
 
-Projeto desenvolvimento durante o Módulo 3- Técnicas de Programação I, turma 864, do programa  < Div > ersidade Tech, em parceria com a Suzano.
+Projeto desenvolvido durante o Módulo 3- Técnicas de Programação I, turma 864, do programa  < Div > ersidade Tech, em parceria com a Suzano.
 
 Autores:
 
