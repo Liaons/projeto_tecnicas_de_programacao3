@@ -8,7 +8,7 @@ Cynthia Pinto: https://github.com/cynthiatsp
 
 Rafael Baptista: https://github.com/rafaa14
 
-Henrique: https://github.com/Liaons
+Henrique Leão: https://github.com/Liaons
 
 Pasta com os arquivos utilizados:
 https://drive.google.com/drive/folders/1Sn0eNM3an8Bi5r8eeGIiyhUvKnveMf8h?usp=share_link
